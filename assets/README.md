@@ -1,0 +1,1 @@
+This folder contains some assets and mock-ups to be used for implementing the lights-out clone.
