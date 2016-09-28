@@ -1,0 +1,53 @@
+<!-- Created with Ai->XAML Export Plug-In Version 0.2 (Mac)   -->
+<!-- By Mike Swanson (http://blog.mikeswanson.com/)           -->
+
+<Viewbox Width="100.000" Height="100.000"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Canvas Width="100.000" Height="100.000">
+
+  <Canvas>
+
+  <Canvas>
+
+  <!-- Layer 1/<Group>/<Rectangle> -->
+  <Path Data="F1 M 100.000,100.000 L 0.000,100.000 L 0.000,0.000 L 100.000,0.000 L 100.000,100.000 Z"/>
+
+  <Canvas>
+
+  <Canvas>
+
+  <!-- Layer 1/<Group>/<Group>/<Group>/<Rectangle> -->
+  <Path Fill="#ffffffff" Data="F1 M 58.134,78.345 L 31.163,78.345 L 31.163,21.655 L 58.134,21.655 L 58.134,78.345 Z"/>
+
+  <!-- Layer 1/<Group>/<Group>/<Group>/<Rectangle> -->
+  <Path Fill="#ffd0d2d3" Data="F1 M 58.134,50.726 L 31.163,50.726 L 31.163,21.655 L 58.134,21.655 L 58.134,50.726 Z"/>
+
+  <!-- Layer 1/<Group>/<Group>/<Group>/<Path> -->
+  <Path Fill="#ffffffff" Data="F1 M 68.837,31.337 L 42.370,31.337 L 39.908,17.642 L 66.375,17.642 L 68.837,31.337 Z"/>
+
+  <!-- Layer 1/<Group>/<Group>/<Group>/<Path> -->
+  <Path Fill="#ffd0d2d3" Data="F1 M 68.837,31.337 L 42.370,31.337 L 31.163,50.726 L 58.134,50.726 L 68.837,31.337 Z"/>
+
+  <!-- Layer 1/<Group>/<Group>/<Group>/<Path> -->
+  <Path Fill="#ffa6a8ab" Data="F1 M 39.901,17.639 L 42.370,31.337 L 31.163,50.726 L 31.163,32.931 L 39.901,17.639 Z"/>
+
+  </Canvas>
+
+  <Canvas>
+
+  <!-- Layer 1/<Group>/<Group>/<Group>/<Compound Path> -->
+  <Path Fill="#ff403f41" Data="F1 M 42.296,66.509 C 42.296,65.330 41.817,64.651 41.037,64.651 C 40.257,64.651 39.778,65.330 39.778,66.509 C 39.778,67.689 40.257,68.428 41.037,68.428 C 41.817,68.428 42.296,67.689 42.296,66.509 Z M 38.019,66.509 C 38.019,64.371 39.238,63.172 41.037,63.172 C 42.836,63.172 44.055,64.381 44.055,66.509 C 44.055,68.649 42.836,69.908 41.037,69.908 C 39.238,69.908 38.019,68.649 38.019,66.509 Z"/>
+
+  <!-- Layer 1/<Group>/<Group>/<Group>/<Compound Path> -->
+  <Path Fill="#ff403f41" Data="F1 M 45.718,63.291 L 47.477,63.291 L 48.917,66.190 L 49.536,67.649 L 49.576,67.649 C 49.496,66.949 49.356,65.970 49.356,65.170 L 49.356,63.291 L 50.995,63.291 L 50.995,69.788 L 49.236,69.788 L 47.797,66.880 L 47.177,65.430 L 47.137,65.430 C 47.217,66.170 47.358,67.109 47.358,67.909 L 47.358,69.788 L 45.718,69.788 L 45.718,63.291 Z"/>
+
+  </Canvas>
+
+  </Canvas>
+
+  </Canvas>
+
+  </Canvas>
+</Canvas>
+</Viewbox>
