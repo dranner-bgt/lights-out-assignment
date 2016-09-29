@@ -1,5 +1,16 @@
 [
     {
+        "name": "Level 0",
+        "columns": 4,
+        "rows": 4,
+        "on": [
+            0,
+            5,
+            10,
+            15
+        ]
+    },
+    {
         "name": "Level 1",
         "columns": 5,
         "rows": 5,
